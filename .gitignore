@@ -133,3 +133,5 @@ dmypy.json
 
 TensorFlow/Testing/*
 TensorFlow/Training/*
+
+RecomendationSystem/Films/ml-100k/*
