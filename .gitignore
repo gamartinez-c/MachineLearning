@@ -138,3 +138,5 @@ RecomendationSystem/Films/ml-100k/*
 
 *.csv
 *.xml
+
+.idea/*
