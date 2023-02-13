@@ -135,3 +135,6 @@ TensorFlow/Testing/*
 TensorFlow/Training/*
 
 RecomendationSystem/Films/ml-100k/*
+
+*.csv
+*.xml
